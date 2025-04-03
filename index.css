@@ -1,0 +1,36 @@
+/*Styling by Class Selector */
+.main-heading {
+  font-family: "Arial", sans-serif;
+  color: #3498db;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/*Styling by ID Selector */
+#image {
+  width: 300px;
+  border: 3px solid #2ecc71;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+/*Styling by Element Selector */
+p {
+  font-size: 18px;
+  color: #ecf0f1;
+  line-height: 1.6;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+
+.container {
+  background-color: #ecf0f1;
+  padding: 15px;
+  margin: 20px auto;
+  width: 50%;
+  border: 2px dashed #e74c3c;
+  text-align: center;
+}
